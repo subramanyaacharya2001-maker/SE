@@ -1,2 +1,3 @@
 version contro is a practice of managing code 
 git is a local repository 
+github is a remote repository 
